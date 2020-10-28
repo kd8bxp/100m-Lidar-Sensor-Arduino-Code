@@ -6,6 +6,11 @@ http://kd8bxp.blogspot.com/2018/12/a-100-meter-lidar-maybe-not.html
 
 ## Installation
 
+## Libraries
+
+Uses LiquidCrystal (version 1.0.7).  
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Things To Do
 
 ## Usage

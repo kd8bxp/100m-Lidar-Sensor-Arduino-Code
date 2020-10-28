@@ -25,7 +25,7 @@ https://kd8bxp.blogspot.com/
 */
 
 #include <Wire.h>
-#include <LiquidCrystal.h>
+#include "src/LiquidCrystal/LiquidCrystal.h"
 
 // select the pins used on the LCD panel
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
